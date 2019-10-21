@@ -1,0 +1,2 @@
+# LinearAndBinSearch
+ Project for binarysearch 
