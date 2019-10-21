@@ -51,7 +51,7 @@ public class SearchChili {
      */
     public void main(String[] args) {
         int[] numbers = {1, 5, 6, 8, 9, 11, 21, 27, 31, 80};
-        System.out.println("Hello Evil World");
+        System.out.println("Hello Evil World Chili");
         System.out.println("Element number 4: " + numbers[4]);
 
         int index = searchBinary(numbers, 81);
