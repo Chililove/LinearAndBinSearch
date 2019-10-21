@@ -9,7 +9,7 @@ package linearandbinsearch;
  *
  * @author mega_
  */
-public class SearchChili {
+public class SearchChilii {
 
     public int searchLinear(int arr[], int searchNumber) {
         boolean foundNumber = false;
